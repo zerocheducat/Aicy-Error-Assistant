@@ -24,7 +24,7 @@
 
 1.  **克隆或下载本项目：**
     ```bash
-    git clone [https://github.com/YourUsername/Aicy-Error-Assistant.git](https://github.com/YourUsername/Aicy-Error-Assistant.git)
+    git clone [https://github.com/zerocheducat/Aicy-Error-Assistant.git](https://github.com/zerocheducat/Aicy-Error-Assistant.git)
     cd Aicy-Error-Assistant
     ```
 
@@ -56,7 +56,7 @@
     # 艾希的参考音频对应的提示文本。这是您在参考音频中艾希所说的话。
     # ！！！非常重要：请确保文本是完整的英文双引号括起来的！！！
     # 示例："我是你的专属猫娘艾希。"
-    AICY_PROMPT_TEXT = "时间会弥合伤口，爱意会抚平疤痕。" # <-- 在这里替换您的实际文本
+    AICY_PROMPT_TEXT = "此处为语言测试" # <-- 在这里替换您的实际文本
 
     # <<<<<<<<<<<<<<<<< 填充部分结束，请确保路径和文本都已正确填写！ <<<<<<<<<<<<<<<<<
     ```
